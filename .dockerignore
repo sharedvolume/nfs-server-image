@@ -1,0 +1,19 @@
+# Docker ignore patterns
+.git
+.github
+.gitignore
+README.md
+CONTRIBUTING.md
+SECURITY.md
+CHANGELOG.md
+LICENSE
+
+# Test files
+test-data/
+examples/
+docs/
+
+# Temporary files
+*.tmp
+*.log
+.DS_Store
